@@ -1,4 +1,4 @@
-👋 Hi, I'm Abdullah Towait — a backend-focused software engineer with full-stack experience focused
+👋 Hi, I'm Abdullah Towait — a backend-focused software engineer with full-stack experience.
 
 ## About Me
 I specialize in designing robust backend systems and have a strong foundation in full-stack development. Over the years, I've collaborated with cross-functional teams to build scalable, maintainable applications. My work spans the entire development lifecycle — from crafting intuitive user interfaces to deploying services in production. I'm passionate about writing clean, efficient code and continuously exploring new technologies to enhance my skill set.
