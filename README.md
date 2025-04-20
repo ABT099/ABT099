@@ -12,6 +12,8 @@ I specialize in designing robust backend systems and have a strong foundation in
 ## Key Projects 🚀
 - [**Identity Mongo**](https://github.com/ABT099/Identity.Mongo): 
   An open‑source NuGet library extending ASP.NET Identity to work with MongoDB, supporting custom contexts and an Entity Framework like work flow, and setup
+- [**AWS Key Generator**](https://github.com/ABT099/AWSKeyGenerator):
+  is an open-source CLI tool that enable you to generate secret keys for your authentication flow and publish them to your AWS Secrets Manager packaged as an easily installable .NET global tool.
 
 ## Professional Goals 🎯
 - **Career Development:** Focused on Enhancing my .NET and cloud (Azure/AWS) expertise to build scalable backend solutions while improving communication skills to effectively explain technical concepts to both technical and non-technical stakeholders.
