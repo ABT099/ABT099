@@ -9,7 +9,7 @@ I specialize in designing robust backend systems and have a strong foundation in
 - **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB  
 - **Tools & Platforms:** GitHub, Docker, Azure, AWS
 
-## Key Projects 🚀
+## Projects 🚀
 - [**Identity Mongo**](https://github.com/ABT099/Identity.Mongo): 
   An open‑source NuGet library extending ASP.NET Identity to work with MongoDB, supporting custom contexts and an Entity Framework like work flow, and setup
 - [**AWS Key Generator**](https://github.com/ABT099/AWSKeyGenerator):
