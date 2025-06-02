@@ -5,9 +5,9 @@ I specialize in designing robust backend systems and have a strong foundation in
 
 ## Technical Skills 🛠️
 - **Languages:** C#, Java, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries:** .NET, Spring Boot, React
-- **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB  
-- **Tools & Platforms:** GitHub, Docker, Azure, AWS
+- **Frameworks & Libraries:** Nodejs, Express, .NET, Spring Boot, Solidjs
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Platforms:** GitHub, Docker, AWS
 
 ## Projects 🚀
 - [**Identity Mongo**](https://github.com/ABT099/Identity.Mongo): 
@@ -16,7 +16,7 @@ I specialize in designing robust backend systems and have a strong foundation in
   is an open-source CLI tool that enable you to generate secret keys for your authentication flow and publish them to your AWS Secrets Manager packaged as an easily installable .NET global tool.
 
 ## Professional Goals 🎯
-- **Career Development:** Focused on Enhancing my .NET and cloud (Azure/AWS) expertise to build scalable backend solutions while improving communication skills to effectively explain technical concepts to both technical and non-technical stakeholders.
+- **Career Development:** Focused on Enhancing my expertise to build scalable backend solutions while improving communication skills to effectively explain technical concepts to both technical and non-technical stakeholders.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
 
 ## Connect With Me 📫
